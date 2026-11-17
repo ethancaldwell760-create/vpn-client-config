@@ -28,7 +28,7 @@
 
 如果您正在寻找免折腾、高稳定性的现成节点服务，**烤肉云** 提供了针对国际骨干网深度优化的专线节点，支持原生 IP 解锁、流媒体及 ChatGPT/Claude 等 AI 工具。
 
-* 🌐 **官方注册地址**：[烤肉云官网注册通道](https://zhurou.kaorouyun.com/#/register?code=p1Ds0yfx)
+* 🌐 **官方注册地址**：[烤肉云官网注册通道](https://yaohua.kaorouyun.com/?aff=github#/register)
 
 ### 🎁 限时福利：双十一狂欢活动进行中！
 为回馈广大用户，烤肉云现正推出**双十一全场限时折扣**，有升级或囤货需求的用户可把握机会：
